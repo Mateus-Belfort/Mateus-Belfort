@@ -27,6 +27,8 @@
 
 <br/>
 
+![snake gif](https://github.com/Mateus-Belfort/Mateus-Belfort/blob/output/github-contribution-grid-snake.svg)
+
 ### Últimos Projetos Desenvolvidos:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93524398/202256781-f77faf18-fef7-429d-aca6-e59e2979bd68.gif)
