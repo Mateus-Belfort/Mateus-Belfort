@@ -7,7 +7,7 @@
 
 
 <a href="https://github.com/Mateus-Belfort/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateus-Belfort&show_icons=true&theme=synthwave&count_private=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateus-Belfort&show_icons=true&theme=dracula&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Belfort&layout=compact" />
 </a>
 
