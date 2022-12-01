@@ -5,7 +5,7 @@
 
 <a href="https://github.com/Mateus-Belfort/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateus-Belfort&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Belfort&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Belfort&langs_count=10" />
 </a>
 
 
