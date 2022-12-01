@@ -3,12 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-mateus-belfort-66a66192/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eumateusbelf/)
 
 
-
-
-
 <a href="https://github.com/Mateus-Belfort/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateus-Belfort&show_icons=true&theme=dracula&count_private=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Belfort&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateus-Belfort&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Belfort&layout=compact&langs_count=10" />
 </a>
 
 
