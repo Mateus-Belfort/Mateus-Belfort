@@ -28,7 +28,7 @@
 
 ### Últimos Projetos Desenvolvidos:
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/93524398/205765794-29670092-7745-4622-8707-b02a3bbf837a.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/93524398/205767400-db1325df-9b02-4663-99fe-0d5869602dca.gif)
 
  [![Contando Palavras](	https://img.shields.io/badge/Contando-Palavras-1abc9c.svg)](https://contando-palavras.netlify.app/)
  
