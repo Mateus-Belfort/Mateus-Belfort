@@ -28,6 +28,12 @@
 
 ### Últimos Projetos Desenvolvidos:
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/93524398/205765794-29670092-7745-4622-8707-b02a3bbf837a.gif)
+
+ [![Contando Palavras](	https://img.shields.io/badge/Contando-Palavras-1abc9c.svg)](https://contando-palavras.netlify.app/)
+ 
+ <br/><br/><br/><br/>
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93524398/202256781-f77faf18-fef7-429d-aca6-e59e2979bd68.gif)
 
  [![Super Dools](	https://img.shields.io/badge/Super-Dools-1abc9c.svg)](https://superdools.netlify.app/)
@@ -35,6 +41,8 @@
  [![Tradutor Morse](	https://img.shields.io/badge/Tradutor-Morse-1abc9c.svg)](https://tradutor-morse.netlify.app/)
  
  [![Welcome Aliens](	https://img.shields.io/badge/Welcome-Alien-1abc9c.svg)](https://welcome-alien.netlify.app/)
+ 
+ 
   
 
 
