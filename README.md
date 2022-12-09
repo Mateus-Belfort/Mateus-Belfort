@@ -77,8 +77,3 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer&text=See%20You!&fontSize=20&fontColor=111821&animation=twinkling&fontAlignY=75" />
-
-
-
-
-
