@@ -61,14 +61,14 @@
 <div align="center">
   <h2>Last Projects developed</h2><br><br>  
   <a href="#"><img src="https://user-images.githubusercontent.com/93524398/205767400-db1325df-9b02-4663-99fe-0d5869602dca.gif" alt="top-langs" /></a><br>  
-  <a href="https://contando-palavras.netlify.app/"><img src="https://img.shields.io/badge/Contando-Palavras-1abc9c.svg" alt="top-langs" /></a><br><br><br> 
+  <a href="https://contando-palavras.netlify.app/"><img src="https://img.shields.io/badge/Contando-Palavras-1E90FF.svg" alt="top-langs" /></a><br><br><br> 
 
  
  <br/><br/>
   
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93524398/202256781-f77faf18-fef7-429d-aca6-e59e2979bd68.gif)
 
- [![Super Dools](	https://img.shields.io/badge/Super-Dools-1abc9c.svg)](https://superdools.netlify.app/)  [![Tradutor Morse](	https://img.shields.io/badge/Tradutor-Morse-1abc9c.svg)](https://tradutor-morse.netlify.app/)  [![Welcome Aliens](	https://img.shields.io/badge/Welcome-Alien-1abc9c.svg)](https://welcome-alien.netlify.app/)
+ [![Super Dools](	https://img.shields.io/badge/Super-Dools-1E90FF.svg)](https://superdools.netlify.app/)  [![Tradutor Morse](	https://img.shields.io/badge/Tradutor-Morse-1E90FF.svg)](https://tradutor-morse.netlify.app/)  [![Welcome Aliens](	https://img.shields.io/badge/Welcome-Alien-1E90FF.svg)](https://welcome-alien.netlify.app/)
  
   
   
