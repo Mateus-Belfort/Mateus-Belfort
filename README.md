@@ -1,48 +1,84 @@
-## Olá! Eu sou o Mateus Belfort ✌️✨
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=160&section=header&text=Mateus%20Belfort&fontSize=30&fontColor=111821&animation=twinkling&fontAlignY=35" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-mateus-belfort-66a66192/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eumateusbelf/)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=350&size=40&pause=1000&color=1E90FF&background=11111100&center=true&vCenter=true&width=1000&lines=Hi%2C+how+are+you%3F;I+hope+you+are+well.;My+name+is+Mateus+Belfort✨.;Nice+to+meet+you!;Be+Welcome!" alt="Typing SVG" /></a>
+
+<br>
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Mateus-Belfort&title_color=1E90FF&border_color=000&text_color=fff&bg_color=111821" alt="Skull-github-stats" /></a>
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Belfort&title_color=1E90FF&border_color=000&text_color=fff&bg_color=111821" alt="top-langs" /></a>
+</div>
+
+<div align="center">
+<a href="#"><img src="https://github.com/Mateus-Belfort/Mateus-Belfort/blob/output/github-contribution-grid-snake.svg" alt="top-langs" /></a>
+</div>
 
 
-<a href="https://github.com/Mateus-Belfort/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateus-Belfort&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Belfort&langs_count=10" />
+
+<br>
+
+<div align="center">
+<h2>:computer: Technologies</h2>  
+<p>These are some of the technologies and tools that I work with:</p>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5-logo" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="css3-logo" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-square&logo=sass&logoColor=white" alt="sass-logo"  />
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="git-logo" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="github-logo" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-square&logo=php&logoColor=white" alt="php-logo"  />
+<img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="vscode-logo"/>
+<br><br>  
+<p>Studying in this moment:</p>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="javascript-logo">
+</div>
+
+<div align="center">
+<h2>:handshake: Connect with me:</h2>
+<a href="https://www.instagram.com/eumateusbelf/">
+<img alt="instagram-icon" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+&nbsp   
+<a href="https://www.linkedin.com/in/carlos-mateus-belfort-66a66192/">
+<img alt="linkedin-icon" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</div>
+
+<br><br><br>  
+
+<div align="center">
+  <h4>Um programador que não sabe tudo, mas que conhece o necessário!✨</h4>
+  <h4>A developer who doesn't know everything, but who knows what is necessary!✨</h4>  
+</div>
+
+<br><br><br>  
 
 
-## Tecnologias que eu uso no meu dia
+<div align="center">
+  <h2>Last Projects developed</h2><br><br>  
+  <a href="#"><img src="https://user-images.githubusercontent.com/93524398/205767400-db1325df-9b02-4663-99fe-0d5869602dca.gif" alt="top-langs" /></a><br>  
+  <a href="https://contando-palavras.netlify.app/"><img src="https://img.shields.io/badge/Contando-Palavras-1abc9c.svg" alt="top-langs" /></a><br><br><br> 
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
-</div><br/>
-
-####  Um programador que não sabe tudo, mas que conhece o necessário!✨
-
-<br/>
-
-![snake gif](https://github.com/Mateus-Belfort/Mateus-Belfort/blob/output/github-contribution-grid-snake.svg)
-
-### Últimos Projetos Desenvolvidos:
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/93524398/205767400-db1325df-9b02-4663-99fe-0d5869602dca.gif)
-
- [![Contando Palavras](	https://img.shields.io/badge/Contando-Palavras-1abc9c.svg)](https://contando-palavras.netlify.app/)
  
- <br/><br/><br/><br/>
-
+ <br/><br/>
+  
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93524398/202256781-f77faf18-fef7-429d-aca6-e59e2979bd68.gif)
 
- [![Super Dools](	https://img.shields.io/badge/Super-Dools-1abc9c.svg)](https://superdools.netlify.app/)
- 
- [![Tradutor Morse](	https://img.shields.io/badge/Tradutor-Morse-1abc9c.svg)](https://tradutor-morse.netlify.app/)
- 
- [![Welcome Aliens](	https://img.shields.io/badge/Welcome-Alien-1abc9c.svg)](https://welcome-alien.netlify.app/)
- 
+ [![Super Dools](	https://img.shields.io/badge/Super-Dools-1abc9c.svg)](https://superdools.netlify.app/)  [![Tradutor Morse](	https://img.shields.io/badge/Tradutor-Morse-1abc9c.svg)](https://tradutor-morse.netlify.app/)  [![Welcome Aliens](	https://img.shields.io/badge/Welcome-Alien-1abc9c.svg)](https://welcome-alien.netlify.app/)
  
   
+  
+  </div>
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer&text=See%20You!&fontSize=20&fontColor=111821&animation=twinkling&fontAlignY=75" />
+
+
+
 
 
