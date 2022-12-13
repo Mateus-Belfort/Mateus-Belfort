@@ -66,9 +66,9 @@
  
  <br/><br/>
   
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/93524398/202256781-f77faf18-fef7-429d-aca6-e59e2979bd68.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/93524398/207442626-0aeb9703-bbb3-4289-b317-d2e84b27b8b7.gif)
 
- [![Super Dools](	https://img.shields.io/badge/Super-Dools-1E90FF.svg)](https://superdools.netlify.app/)  [![Tradutor Morse](	https://img.shields.io/badge/Tradutor-Morse-1E90FF.svg)](https://tradutor-morse.netlify.app/)  [![Welcome Aliens](	https://img.shields.io/badge/Welcome-Alien-1E90FF.svg)](https://welcome-alien.netlify.app/)
+ [![Super Dools](	https://img.shields.io/badge/Super-Dools-1E90FF.svg)](https://superdools.netlify.app/) <br/> [![Gerador de senha](	https://img.shields.io/badge/Gerador_de-Senha-1E90FF.svg)](https://gerador-de-senha.netlify.app/)  [![Receitas Praticas](	https://img.shields.io/badge/Receitas-Praticas-1E90FF.svg)](https://receitaspraticas.netlify.app/)  [![Welcome Aliens](	https://img.shields.io/badge/Welcome-Alien-1E90FF.svg)](https://welcome-alien.netlify.app/)
  
   
   
