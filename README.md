@@ -30,7 +30,7 @@
 
 <div align="center">
 <h2>:handshake: Connect with me:</h2>
-<a href="https://www.instagram.com/eumateusbelf/">
+<a href="https://www.instagram.com/devmateusbelf/">
 <img alt="instagram-icon" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp   
