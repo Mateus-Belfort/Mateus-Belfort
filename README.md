@@ -4,15 +4,6 @@
 
 <br>
 
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-Belfort)](https://github.com/Mateus-Belfort/github-readme-stats)
-</div>
-
-<br>
-
-<div align="center">
-<a href="https://github.com/Mateus-Belfort/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Belfort&title_color=1E90FF&border_color=000&text_color=fff&bg_color=111821" alt="top-langs" /></a>
-</div>
 
 <div align="center">
 <a href="#"><img src="https://github.com/Mateus-Belfort/Mateus-Belfort/blob/output/github-contribution-grid-snake.svg" alt="top-langs" /></a>
