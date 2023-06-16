@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameMateus-Belfortanuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-Belfortanuraghazra&show_icons=true&theme=transparent)
 </div>
 
 <br>
