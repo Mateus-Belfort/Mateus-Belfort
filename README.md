@@ -3,9 +3,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=350&size=40&pause=1000&color=1E90FF&background=11111100&center=true&vCenter=true&width=1000&lines=Hi%2C+how+are+you%3F;I+hope+you+are+well.;My+name+is+Mateus+Belfort✨.;Nice+to+meet+you!;Be+Welcome!" alt="Typing SVG" /></a>
 
 <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-Belfort)](https://github.com/Mateus-Belfort/github-readme-stats)
-
+<div align="center">
+<a href="https://github.com/Mateus-Belfort/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mateus-Belfort&hide=contribs,prs&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/Mateus_Belfort/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Belfort&layout=compact" />
+</a>
+</div>
 
 <div align="center">
 <a href="#"><img src="https://github.com/Mateus-Belfort/Mateus-Belfort/blob/output/github-contribution-grid-snake.svg" alt="top-langs" /></a>
